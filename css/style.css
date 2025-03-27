@@ -1,9 +1,15 @@
 body {
   font-family: sans-serif;
+  height: 100vh;
+  display: flex;
+  align-content: center;
+  flex-direction: column;
+  justify-content: center;
 }
 
 .main {
-  align-content: center;
+  max-width: ;
+  align-items: center;
   justify-content: center;
   margin: 0 auto;
 }
