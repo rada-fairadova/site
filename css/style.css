@@ -2,6 +2,12 @@ body {
   font-family: sans-serif;
 }
 
+.main {
+  align-content: center;
+  justify-content: center;
+  margin: 0 auto;
+}
+
 .sign-text {
   color: DodgerBlue;
 }
